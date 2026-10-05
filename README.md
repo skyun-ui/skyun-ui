@@ -8,7 +8,7 @@
 
 | | 프로젝트 | 소개 |
 |---|---|---|
-| <img src="https://raw.githubusercontent.com/skyun-ui/check-again/main/screenshots/icon.png" width="48"> | **[Check Again](https://github.com/skyun-ui/check-again)** | 마지막으로 한 때부터 다시 세서 알려 주는 할 일 앱 (iOS · 출시 준비 중) |
+| <img src="assets/check-again-icon.png" width="48"> | **[Check Again](https://github.com/skyun-ui/check-again)** | 마지막으로 한 때부터 다시 세서 알려 주는 할 일 앱 (iOS · 출시 준비 중) |
 
 ### 주로 쓰는 기술
 
